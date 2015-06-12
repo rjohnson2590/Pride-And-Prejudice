@@ -1,0 +1,22 @@
+{
+  "name": "Pride-And-Prejudice",
+  "version": "1.0.0",
+  "description": "Contents of _Pride And Prejudice_ by Jane Austen",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portlandcodeschool-jsi/Pride-And-Prejudice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portlandcodeschool-jsi/Pride-And-Prejudice/issues"
+  },
+  "homepage": "https://github.com/portlandcodeschool-jsi/Pride-And-Prejudice",
+  "dependencies": {
+    "orchestrate": "^0.4.4"
+  }
+}
